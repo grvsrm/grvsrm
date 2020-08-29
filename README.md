@@ -1,5 +1,35 @@
-### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/grvsrm)
+[![Years Badge](https://badges.pufler.dev/years/grvsrm)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/grvsrm)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/grvsrm/grvsrm)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/grvsrm/grvsrm)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/grvsrm)](https://badges.pufler.dev)
 
+### Hey, My name is Gaurav..!! 👋
+I am an Engineer and a Data Scientist. Before moving into Data Science, I spent a considerable time at Shop Floor in Automotive Industry. I am fairly exposed to Manufacturing and have a diversified work experience in various domains ranging from Industry 4.0 and Factory Digitization, Planning & Operations, Asset Maintenance and IT. My recent work interests are into building factories of the future. I use data scinece to solve business problems in Manufacturing as my inclination is more towards decision making using data rather than making data products.
+
+<b>Tech Stack</b>
+
+<img align="left" width="120px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  <img align="left" width="120px" src="https://github.com/vin725k/vin725k/blob/master/do-big-data-analysis-in-pyspark.png" />  <img align="left" width="100px" src="https://github.com/vin725k/vin725k/blob/master/docker.png" />  <img align="left" width="120px" src="https://github.com/vin725k/vin725k/blob/master/RStudio.png" />  <img align="left" width="100px" src="https://pytorch.org/assets/images/pytorch-logo.png" /> 
+<img align="left" width="120px" src="https://github.com/vin725k/vin725k/blob/master/google-cloud-platform.png" /> 
+<img align="left" width="120px" src="https://github.com/vin725k/vin725k/blob/master/pyspark.jpeg" /> 
+<br>
+<br/>
+<br>
+<br>
+<br/>
+<br>
+
+
+<b>My Github Stats</b> 
+
+<p align = "left">
+  <img src="https://github-readme-stats.vercel.app/api?username=grvsrm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=grvsrm&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
 <!--
 **grvsrm/grvsrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
