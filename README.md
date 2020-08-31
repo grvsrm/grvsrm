@@ -6,7 +6,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/grvsrm)](https://badges.pufler.dev)
 
 ### Hey Visitor..!! 👋
-I am an Engineer and a Data Scientist. Before moving into Data Science, I spent a considerable time at Shop Floor in Automotive Industry. I am fairly exposed to Manufacturing and have a diversified work experience in various domains ranging from Industry 4.0 and Factory Digitization, Planning & Operations, Asset Maintenance and IT. My recent work interests are into building factories of the future. I use data science to solve business problems in Manufacturing as my inclination is more towards decision making using data rather than making data products.
+I welcome you to my github profile. I am an Engineer and a Data Scientist. Before moving into Data Science, I spent a considerable time at Shop Floor in Automotive Industry. I am fairly exposed to Manufacturing and have a diversified work experience in various domains ranging from Industry 4.0 and Factory Digitization, Planning & Operations, Asset Maintenance and IT. My recent work interests are into building factories of the future. I use data science to solve business problems in Manufacturing as my inclination is more towards decision making using data rather than making data products.
 
 <b>Tech Stack</b>
 
