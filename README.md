@@ -2,7 +2,6 @@
 [![Years Badge](https://badges.pufler.dev/years/grvsrm)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/grvsrm)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/grvsrm/grvsrm)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/grvsrm/grvsrm)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/grvsrm)](https://badges.pufler.dev)
 
 ### Hey Visitor..!! 👋
