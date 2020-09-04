@@ -1,4 +1,4 @@
-[![Profile views](https://gpvc.arturio.dev/grvsrm)
+![Profile views](https://gpvc.arturio.dev/grvsrm)
 [![Years Badge](https://badges.pufler.dev/years/grvsrm)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/grvsrm)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/grvsrm/grvsrm)](https://badges.pufler.dev)
