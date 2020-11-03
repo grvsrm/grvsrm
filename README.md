@@ -11,6 +11,7 @@ I welcome you to my github profile. I am an Engineer and a Data Scientist. Befor
 <b>Tech Stack</b>
 
 <img align="left" width="120px" src="https://github.com/grvsrm/grvsrm/blob/master/RStudio.png" />  
+<img align="left" width="120px" src="https://github.com/grvsrm/grvsrm/blob/master/hex-shiny.png" />  
 <img align="left" width="120px" src="https://github.com/grvsrm/grvsrm/blob/master/tableau.png" />  
 <img align="left" width="120px" src="https://github.com/grvsrm/grvsrm/blob/master/python.png" />  
 <br>
