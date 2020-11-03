@@ -25,13 +25,16 @@ I welcome you to my github profile. I am an Engineer and a Data Scientist. Befor
 <br>
 
 
-<b>My Github Stats</b> 
+<hr>
 
-<p align = "left">
-  <img src="https://github-readme-stats.vercel.app/api?username=grvsrm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=grvsrm&hide=css,java,html&theme=tokyonight">
+<strong>Statistics</strong>
+<br>
+
+<!-- My GitHub stats with buefy theme ❤️ -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=grvsrm&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grvsrm&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
+
 
 </details>
 <!--
