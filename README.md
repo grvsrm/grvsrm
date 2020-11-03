@@ -1,8 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/grvsrm)
 [![Repos Badge](https://badges.pufler.dev/repos/grvsrm)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/grvsrm/grvsrm)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/grvsrm)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/grvsrm)](https://badges.pufler.dev)
 ![Twitter Follow](https://img.shields.io/twitter/follow/GRStats?label=gaurav&style=social)
 
 ### Hey Visitor..!! 👋
